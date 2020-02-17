@@ -1,0 +1,6 @@
+- Scrape bookmarks in Watch section
+- Split into TV, Films, Other
+- Put TV into 'To Watch' TV Trello list
+- Put Films into 'To Watch' Film Trello list
+- Report on count of TV/Films
+- Report on which could not be handled
